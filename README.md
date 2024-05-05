@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janith Ravindu</h1>
 <h3 align="center">A passionate Data Science & AI developer from Sri Lanka</h3>
 
-- 🔭 I’m currently studing at **University of Colombo**
+- 🎓 I’m currently studing **Bsc (Hons) in Data Science University of Colombo, Faculty of Science**
 
 - 🌱 I’m currently learning **LLMs**
 
