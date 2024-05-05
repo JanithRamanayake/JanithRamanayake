@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Janith Ravindu</h1>
 <h3 align="center">A passionate Data Science & AI developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janithravindurashmika&label=Profile%20views&color=0e75b6&style=flat" alt="janithravindurashmika" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janithravindurashmika" alt="janithravindurashmika" /></a> </p>
-
 - 🔭 I’m currently studing at **University of Colombo**
 
 - 🌱 I’m currently learning **LLMs**
